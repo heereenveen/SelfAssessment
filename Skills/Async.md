@@ -5,38 +5,38 @@
   - try..catch 🎓 known
   - Non-blocking 🎓 known
   - Async I/O 🎓 known
-  - Thread pool 👂heard
-  - Pattern Reactor 👂heard
-  - CAS operations 👂heard
-  - epoll 👂heard
-  - kqueue 👂heard
-  - Completion ports 👂heard
-  - Event ports 👂heard
-  - libuv 👂heard
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 👂 heard
+  - Event ports 👂 heard
+  - libuv 👂 heard
   - Race conditions 🎓 known
   - Dead locks 🎓 known
   - Live locks 🎓 known
   - Concurrent programming 🎓 known
   - Parallel programming 🎓 known
-  - Actor Model 👂heard
+  - Actor Model 👂 heard
   - Thread 🎓 known
   - Process 🎓 known
 - Async contracts
   - Callbacks 🖐️ used
-  - Callback-last-error-first 👂heard
+  - Callback-last-error-first 👂 heard
   - Thenable 🖐️ used
   - Promise 🖐️ used
   - Async/await 🖐️ used
-  - Future 👂heard
-  - Deferred 👂heard
-  - Sync generator 👂heard
-  - Async Generator 👂heard
-  - Async Iterator 👂heard
+  - Future 👂 heard
+  - Deferred 👂 heard
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
   - Event 🎓 known
-  - Coroutine 👂heard
-  - Goroutine 👂heard
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
   - Signal 🖐️ used
-  - Stream 👂heard
+  - Stream 👂 heard
   - Chain of responsibility 🎓 known
   - Middleware 🎓 known
   - Locks 🎓 known
@@ -44,52 +44,52 @@
   - callbackify 🎓 known
   - promisify 🎓 known
   - asyncify 🎓 known
-  - callbacks compose 👂heard
-  - async compose 👂heard
+  - callbacks compose 👂 heard
+  - async compose 👂 heard
 - Async abstractions interfaces
-  - EventEmitter 👂heard
-  - Observable/Observer 👂heard
+  - EventEmitter 👂 heard
+  - Observable/Observer 👂 heard
   - Readable 🎓 known
   - Writable 🎓 known
   - Transform 🎓 known
-  - Async Pool 👂heard
-  - Async Queue 👂heard
-  - Async Collector 👂heard
-  - Semaphore 👂heard
-  - Mutex 👂heard
-  - Spin Lock 👂heard
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
+  - Async Collector 👂 heard
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
+  - Spin Lock 👂 heard
 - JavaScript & Node.js specific
   - Timers 🎓 known
-  - setImmediate 👂heard
-  - nextTick 👂heard
-  - AbortController 👂heard
+  - setImmediate 👂 heard
+  - nextTick 👂 heard
+  - AbortController 👂 heard
   - AbortSignal 🎓 known
   - Promise unhandled rejection 🎓 known
   - Promise double resolve 🎓 known
-  - child_process 👂heard
-  - worker_threads 👂heard
-  - Atomics 👂heard
-  - High resolution clock 👂heard
+  - child_process 👂 heard
+  - worker_threads 👂 heard
+  - Atomics 👂 heard
+  - High resolution clock 👂 heard
   - Callback hell 🎓 known
   - Promise hell 🎓 known
   - ref() and unref() 🎓 known
   - Error handling in async code 🎓 known
-  - Better stack traces with return await 👂heard
+  - Better stack traces with return await 👂 heard
   - JSON: streaming serialization 🎓 known
   - promisify 🎓 known
   - callbackify 🎓 known
-  - AsyncLocalStorage 👂heard
-  - AsyncResource 👂heard
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 👂 heard
 - Techniques
   - async.js library 🎓 known
-  - RxJS library 👂heard
-  - Async composition 👂heard
-  - Promise.all 👂heard
-  - Promise.allSettled 👂heard
-  - Promise.race 👂heard
-  - Promise.any 👂heard
-  - Web Locks API 👂heard
-  - IPC 👂heard
-  - Channel API 👂heard
-  - Revealing Constructor 👂heard
-  - Web Locks API 👂heard
+  - RxJS library 👂 heard
+  - Async composition 👂 heard
+  - Promise.all 👂 heard
+  - Promise.allSettled 👂 heard
+  - Promise.race 👂 heard
+  - Promise.any 👂 heard
+  - Web Locks API 👂 heard
+  - IPC 👂 heard
+  - Channel API 👂 heard
+  - Revealing Constructor 👂 heard
+  - Web Locks API 👂 heard
