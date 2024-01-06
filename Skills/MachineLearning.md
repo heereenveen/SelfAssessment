@@ -1,7 +1,6 @@
 # Machine Learning 
 
 - Foundations
-    - Introduction to Machine Learning: 🎓 known
     - Supervised Learning: 🎓 known
     - Unsupervised Learning: 🎓 known
     - Semi-supervised Learning: 👂 heard
