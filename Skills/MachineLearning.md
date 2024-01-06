@@ -1,0 +1,57 @@
+# Machine Learning 
+
+- Foundations
+    - Introduction to Machine Learning: 🎓 known
+    - Supervised Learning: 🎓 known
+    - Unsupervised Learning: 🎓 known
+    - Semi-supervised Learning: 👂 heard
+    - Reinforcement Learning: 🎓 known
+    - Types of Machine Learning Algorithms: 🎓 known
+    - Overfitting and Underfitting: 🎓 known
+    - Bias-Variance Tradeoff: 🎓 known
+    - Evaluation Metrics: 🎓 known
+- Data Preparation
+    - Data Cleaning and Preprocessing: 🖐️ Used
+    - Feature Engineering: 🖐️ Used
+    - Feature Scaling: 🖐️ Used
+    - Handling Missing Data: 🖐️ Used
+    - Exploratory Data Analysis (EDA): 
+- Supervised Learning
+    - Linear Regression: 🖐️ Used
+    - Logistic Regression: 🖐️ Used
+    - Decision Trees: 🖐️ Used
+    - Random Forest: 👂 heard
+    - Support Vector Machines (SVM): 🖐️ Used
+    - k-Nearest Neighbors (k-NN): 🖐️ Used
+    - Naive Bayes: 🖐️ Used
+    - Gradient Boosting: 🎓 known
+- Unsupervised Learning
+    - K-Means Clustering: 🖐️ Used
+    - Hierarchical Clustering: 👂 heard
+    - DBSCAN: 🎓 known
+    - Principal Component Analysis (PCA): 👂 heard
+    - t-Distributed Stochastic Neighbor Embedding (t-SNE): 👂 heard
+    - Association Rule Mining: 🎓 known
+- Model Deployment and Serving
+    - Model Deployment Strategies: 👂 heard
+    - RESTful APIs for Model Serving: 
+    - Containerization for ML Models: 
+    - Model Monitoring and Maintenance: 
+- Tools and Frameworks
+    - Python for Machine Learning: 🖐️ Used
+    - NumPy, Pandas, Matplotlib, Seaborn: 🖐️ Used
+    - Scikit-Learn: 🖐️ Used
+    - TensorFlow: 👂 heard
+    - PyTorch: 👂 heard
+    - Jupyter Notebooks: 🖐️ Used
+- Advanced Concepts
+    - Hyperparameter Tuning: 🖐️ Used
+    - AutoML: 👂 heard
+    - Explainable AI: 👂 heard
+    - Reinforcement Learning Algorithms: 🎓 known
+    - Time Series Analysis and Forecasting: 👂 heard
+    - Natural Language Processing (NLP): 👂 heard
+- Evaluation and Ethical Considerations
+    - Model Evaluation and Cross-Validation: 🖐️ Used
+    - Bias and Fairness in Machine Learning: 🎓 known
+    - Ethical Considerations in AI: 🎓 known
