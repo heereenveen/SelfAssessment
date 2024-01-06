@@ -5,24 +5,25 @@
   - this 🖐️ used
   - arrow function 🖐️ used
   - async function 🖐️ used
-  - call 🎓 known
-  - bind 🎓 known
+  - call 🖐️ used
+  - bind 🖐️ used
   - apply 🖐️ used
   - instanceof 🖐️ used
   - ...spread 🖐️ used
   - ...rest 🖐️ used
   - typeof 🖐️ used
-  - destructuring 👂 heard
-  - generator 👂 heard
-  - iterator 👂 heard
-  - async generator 👂 heard
-  - async iterator 👂 heard
+  - destructuring 🖐️ used
+  - generator🖐️ used
+  - iterator 🖐️ used
+  - async generator 🖐️ used
+  - async iterator 🖐️ used
   - chaining 🖐️ used
-  - optional chaining 👂 heard
+  - optional chaining 🖐️ used
   - IIFE 👂 heard
-  - global 👂 heard
-  - globalThis 👂 heard
-  - window 👂 heard
+  - global 🖐️ used
+  - globalThis 🖐️ used
+  - window 🖐️ used
+  - getters and setters 🖐️ used
   - getters and setters 👂 heard
   - __proto__ 👂 heard
   - prototype 🖐️ used
@@ -33,8 +34,8 @@
   - void 🖐️ used
   - yield 🖐️ used
   - await 🖐️ used
-  - template literal 👂 heard
-  - strict mode 👂 heard
+  - template literal 🖐️ used
+  - strict mode 🖐️ used
   - delete 🖐️ used
   - in 🖐️ used
   - super 🖐️ used
@@ -66,24 +67,24 @@
   - default parameters 🖐️ used
   - functional object 🖐️ used
 - Data structures
-  - Array 🎓 known
+  - Array 🖐️ used
   - mixin 🎓 known
-  - extend 🎓 known
-  - typed arrays 🎓 known
-  - Map 🎓 known
-  - Set 🎓 known
+  - extend 🖐️ used
+  - typed arrays 🖐️ used
+  - Map 🖐️ used
+  - Set 🖐️ used
   - undefined 🎓 known
   - null 🎓 known
-  - Proxy 👂 heard
-  - weak collections 👂 heard
-  - timers 🎓 known
-  - EventEmitter 🎓 known
+  - Proxy 🎓 known
+  - weak collections 🎓 known
+  - timers 🖐️ used
+  - EventEmitter 🖐️ used
   - RegExp 🎓 known
   - Date 🎓 known
   - BigInt 🎓 known
 - Infrastructure
   - V8 👂 heard
-  - Node.js 👂 heard
-  - npm 👂 heard
-  - prettier 👂 heard
-  - MDN 👂 heard
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🖐️ used
+  - MDN 🖐️ used
