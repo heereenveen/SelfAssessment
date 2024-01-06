@@ -1,95 +1,95 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
+  - Non-blocking 🖐️ used
+  - Async I/O 🖐️ used
+  - Thread pool 🖐️ used
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 👂 heard
+  - Event ports 🖐️ used
+  - libuv 👂 heard
+  - Race conditions🖐️ used
+  - Dead locks 🖐️ used
+  - Live locks 🖐️ used
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
+  - Actor Model 🎓 known
+  - Thread 🖐️ used
+  - Process 🖐️ used
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
+  - Thenable 🖐️ used
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
+  - Future  🖐️ used
+  - Deferred 🖐️ used
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🎓 known
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 🖐️ used
+  - Stream 🖐️ used
+  - Chain of responsibility 🎓 known
+  - Middleware 🎓 known
+  - Locks 🎓 known
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify 🖐️ used
+  - promisify 🖐️ used
+  - asyncify 🖐️ used
+  - callbacks compose 🎓 known
+  - async compose 🎓 known
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter 🖐️ used
+  - Observable/Observer 🖐️ used
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known
+  - Async Collector 🎓 known
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
+  - Spin Lock 👂 heard
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - Timers 🖐️ used
+  - setImmediate 🎓 known
+  - nextTick 🎓 known
+  - AbortController 🎓 known
+  - AbortSignal 🎓 known
+  - Promise unhandled rejection 🖐️ used
+  - Promise double resolve 🖐️ used
+  - child_process 🎓 known
+  - worker_threads 🎓 known
+  - Atomics 👂 heard
+  - High resolution clock 👂 heard
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
+  - ref() and unref() 🎓 known
+  - Error handling in async code 🖐️ used
+  - Better stack traces with return await 🖐️ used
+  - JSON: streaming serialization 🖐️ used
+  - promisify 🖐️ used
+  - callbackify 🖐️ used
+  - AsyncLocalStorage 🎓 known
+  - AsyncResource 🎓 known
 - Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - async.js library 🖐️ used
+  - RxJS library 👂 heard
+  - Async composition 🖐️ used
+  - Promise.all 🎓 known
+  - Promise.allSettled 🖐️ used
+  - Promise.race 🖐️ used
+  - Promise.any 🖐️ used
+  - Web Locks API 👂 heard
+  - IPC 👂 heard
+  - Channel API 👂 heard
+  - Revealing Constructor 👂 heard
+  - Web Locks API 👂 heard
