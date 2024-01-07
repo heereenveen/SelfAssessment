@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🎓 known
-  - literal 🎓 known
-  - expression 🖐️ used
-  - heap 🎓 known
-  - function 🖐️ used
-  - procedure 🎓 known
-  - method 🖐️ used 
-  - class 🖐️ used
-  - prototype 🖐️ used
-  - event 🖐️ used
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 
-  - flag 🖐️ used
-  - lexical scope 🖐️ used
-  - code block 🎓 known
-  - conditions 🖐️ used
-  - loops 🖐️ used
-  - assignment 🖐️ used
-  - regular expression 🖐️ used
-  - interface 🎓 known
-  - contract 🎓 known
-  - module 🖐️ used
-  - call stack 🎓 known
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🎓 known
+  - literal: 🎓 known
+  - expression: 🖐️ used
+  - heap: 🎓 known
+  - function: 🖐️ used
+  - procedure: 🎓 known
+  - method: 🖐️ used 
+  - class: 🖐️ used
+  - prototype: 🖐️ used
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 
+  - flag: 🖐️ used
+  - lexical scope: 🖐️ used
+  - code block: 🎓 known
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression: 🖐️ used
+  - interface: 🎓 known
+  - contract: 🎓 known
+  - module: 🖐️ used
+  - call stack: 🎓 known
 - Functions
-  - signature 🖐️ used
-  - argument 🖐️ used
-  - parameter 🖐️ used
-  - pure function 🖐️ used
-  - lambda expression 🖐️ used
-  - side effects 👂 heard
-  - closure 👂 heard
-  - partial application
-  - curry 🎓 known
-  - higher order
-  - recursion 🖐️ used
-  - callback 🖐️ used
-  - listener 🎓 known
-  - compose 🎓 known
-  - pipe 🎓 known
-  - memoize 🎓 known
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator 🎓 known
-  - coroutine
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🖐️ used
+  - lambda expression: 🖐️ used
+  - side effects: 👂 heard
+  - closure: 👂 heard
+  - partial application:
+  - curry: 🎓 known
+  - higher order:
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🎓 known
+  - compose: 🎓 known
+  - pipe: 🎓 known
+  - memoize: 🎓 known
+  - wrapper:
+  - functor:
+  - monad:
+  - monoid:
+  - generator: 🎓 known
+  - coroutine:
 - Data structures
-  - array 🖐️ used
-  - structure 🖐️ used
-  - record 
-  - enum 🖐️ used
-  - instance
-  - object 🖐️ used
-  - class 🖐️ used
-  - collection 🖐️ used
-  - set 🖐️ used
-  - hash table 🖐️ used
-  - linked list 🖐️ used
-  - doubly list 🖐️ used
-  - unrolled list 👂 heard
-  - circular list 👂 heard
-  - queue 🖐️ used
-  - stack 🖐️ used
-  - deque
-  - tree 🖐️ used
-  - graph 🖐️ used
-  - iterator 🖐️ used
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 🖐️ used
+  - structure: 🖐️ used
+  - record: 
+  - enum: 🖐️ used
+  - instance:
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 🖐️ used
+  - set: 🖐️ used
+  - hash table: 🖐️ used
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 🖐️ used
+  - stack: 🖐️ used
+  - deque:
+  - tree: 🖐️ used
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
+  - mutable state:
+  - immutable state:
+  - serialization:
+  - string parsing:
 - Process & style
-  - compiler 🖐️ used
-  - transpiler
-  - linter 🖐️ used
-  - polyfill 👂 heard
-  - debugger 🖐️ used
-  - garbage collection 🎓 known
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 👂 heard
-  - paradigm 👂 heard
-  - algorithm 🖐️ used
-  - magic numbers 🎓 known
-  - hardcode 🎓 known
-  - complexity
-  - decomposition 🖐️ used
-  - spaghetti 🎓 known
-  - silver bullet 🎓 known
-  - not invented here 🎓 known
-  - dead code 🎓 known
-  - unreachable code 🎓 known
-  - duplicate code 🎓 known
-  - exception 🖐️ used
-  - return early 🎓 known
-  - unittest 👂 heard
-  - git 🖐️ used
-  - github 🖐️ used
+  - compiler: 🖐️ used
+  - transpiler:
+  - linter: 🖐️ used
+  - polyfill: 👂 heard
+  - debugger: 🖐️ used
+  - garbage collection: 🎓 known
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 🖐️ used
+  - magic numbers: 🎓 known
+  - hardcode: 🎓 known
+  - complexity:
+  - decomposition: 🖐️ used
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🖐️ used
+  - return early: 🎓 known
+  - unittest: 👂 heard
+  - git: 🖐️ used
+  - github: 🖐️ used
