@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
-  - call 🎓 known
-  - bind 🎓 known
-  - apply 🖐️ used
-  - instanceof 🖐️ used
-  - ...spread 🖐️ used
-  - ...rest 🖐️ used
-  - typeof 🖐️ used
-  - destructuring 👂 heard
-  - generator 👂 heard
-  - iterator 👂 heard
-  - async generator 👂 heard
-  - async iterator 👂 heard
-  - chaining 🖐️ used
-  - optional chaining 👂 heard
-  - IIFE 👂 heard
-  - global 👂 heard
-  - globalThis 👂 heard
-  - window 👂 heard
-  - getters and setters 👂 heard
-  - __proto__ 👂 heard
-  - prototype 🖐️ used
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
-  - void 🖐️ used
-  - yield 🖐️ used
-  - await 🖐️ used
-  - template literal 👂 heard
-  - strict mode 👂 heard
-  - delete 🖐️ used
-  - in 🖐️ used
-  - super 🖐️ used
-  - Symbol 🖐️ used
-  - Reflect 🖐️ used
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🖐️ used
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 👂 heard
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 🖐️ used
+  - optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - global: 👂 heard
+  - globalThis: 👂 heard
+  - window: 👂 heard
+  - getters and setters: 👂 heard
+  - __proto__: 👂 heard
+  - prototype: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
+  - yield: 🖐️ used
+  - await: 🖐️ used
+  - template literal: 👂 heard
+  - strict mode: 👂 heard
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
+  - Reflect: 🖐️ used
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
-  - for await 🖐️ used
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 🖐️ used
-  - export 🖐️ used
-  - label 🖐️ used
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - new Error 🖐️ used
-  - with 🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 🖐️ used
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
-  - default parameters 🖐️ used
-  - functional object 🖐️ used
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
-  - Array 🎓 known
-  - mixin 🎓 known
-  - extend 🎓 known
-  - typed arrays 🎓 known
-  - Map 🎓 known
-  - Set 🎓 known
-  - undefined 🎓 known
-  - null 🎓 known
-  - Proxy 👂 heard
-  - weak collections 👂 heard
-  - timers 🎓 known
-  - EventEmitter 🎓 known
-  - RegExp 🎓 known
-  - Date 🎓 known
-  - BigInt 🎓 known
+  - Array: 🎓 known
+  - mixin: 🎓 known
+  - extend: 🎓 known
+  - typed arrays: 🎓 known
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
+  - RegExp: 🎓 known
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
-  - V8 👂 heard
-  - Node.js 👂 heard
-  - npm 👂 heard
-  - prettier 👂 heard
-  - MDN 👂 heard
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 👂 heard
+  - MDN: 👂 heard
